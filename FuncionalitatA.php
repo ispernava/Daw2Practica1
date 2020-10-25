@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?pp echo "hola mon"?>
+    <?php echo "hola mon"?>
 </body>
 </html>
